@@ -13,7 +13,7 @@
 
 - Flow :
     1. Create User migration with additional field ('location')
-    2. Create database seeder to see User data
+    2. Create database seeder to seed User data
     3. Create controller to handle logic of fetching data
     4. Create route for the api
     6. Deploy app 
