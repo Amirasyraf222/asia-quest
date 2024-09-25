@@ -2,7 +2,8 @@
 ### Setup Instruction
 - Clone project using `git clone https://github.com/Amirasyraf222/asia-quest.git`
 - Run `composer install` 
-- Create database, rename `.env.example` to `.env`
+- Create database name `asia_quest` on your local
+- Rename `.env.example` to `.env`
 - Run `php artisan migrate` to migrate database 
 - Run `php artisan db:seed --class=UserSeeder` to seed the user data in database
 - Run `php artisan key:generate` to generate key if required
