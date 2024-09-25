@@ -10,6 +10,8 @@
 
 - Search `http://127.0.0.1:8000/api/users` to view on all data
 - Search `http://127.0.0.1:8000/api/users?limit=5&page=2` to view on limit and page
+- Search `http://127.0.0.1:8000/users` to view on web view
+
 
 - Flow :
     1. Create User migration with additional field ('location')
